@@ -1,2 +1,2 @@
 # CSS
-HTML practice exercises and projects
+CSS practice exercises and projects
